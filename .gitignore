@@ -1,0 +1,8 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+data/
+taxi_parquet/
+nyc_taxi_analysis.html
+.DS_Store
